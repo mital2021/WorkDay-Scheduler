@@ -20,7 +20,7 @@ https://mital2021.github.io/WorkDay-Scheduler/
 
 # Screenshot of my application
 
-![](./assets/image/image.jpg)
+![](./assets/image/workday.jpg)
 
 
 ## Contribution
