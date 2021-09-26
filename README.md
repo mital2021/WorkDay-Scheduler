@@ -1,1 +1,27 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler 
+
+
+## Purpose
+
+Its a calendar application that allows a user to save events for each hour of the day.
+
+## Built with 
+    * Javascript
+    * jQuery
+    * HTML
+    * CSS
+
+## Website
+
+
+https://mital2021.github.io/WorkDay-Scheduler/
+
+
+
+# Screenshot of my application
+
+![](./assets/image/image.pg)
+
+
+## Contribution
+Made by Mital.G
